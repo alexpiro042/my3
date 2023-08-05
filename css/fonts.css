@@ -1,0 +1,19 @@
+@font-face{
+    font-family: "Oxanium";
+    src: url("../fonts/Oxanium-VF.woff2") format("woff2"),
+        url("../fonts/Oxanium-VF.woff") format("woff"),
+        url("../fonts/Oxanium-VF.ttf") format("ttf");
+    font-display: swap;
+    font-weight: 400  900;
+    font-stretch: 75% 200%;
+    ;
+}
+@font-face {
+    font-family: "Work Sans";
+    src:url("../fonts/Work-Sans-VF.woff2") format("woff2"),
+        url("../fonts/Work-Sans-VF.woff") format("woff"),
+        url("../fonts/Work-Sans-VF.ttf") format("ttf");
+    font-display: swap;
+    font-weight: 400  900;
+    font-stretch: 75% 200%;
+}
